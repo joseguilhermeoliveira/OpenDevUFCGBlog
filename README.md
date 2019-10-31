@@ -6,7 +6,7 @@
             OpenDevUFCGBlog
         </a>
     </h1>
-    <strong>Tem algum conteúdo que você quer compartilhar com a comunidade? Fala com o OpenDevUFCG que a gente te impulsiona </strong>
+    <strong>Tem algum conteúdo que você quer compartilhar com a comunidade? Fala com o OpenDevUFCG que a gente te impulsiona! </strong>
     <br>
     <img src="docs/img/gif_readme/blog.gif" alt="Blog" width="450px">
 </div>
